@@ -1,4 +1,4 @@
-package packageversioningtest
+package package_versioning_test
 
 
 // ReturnsString returns a string.
