@@ -41,9 +41,9 @@ func Hellos(names []string) (map[string]string, error) {
 func randomFormat() string {
 	// A slice of message formats.
 	formats := []string{
-		"Hi, %v. Welcome!",
-		"Great to see you, %v!",
-		"Hail, %v! Well met!",
+		"Hi, %v. Welcome from version 6.0.7!",
+		"Great to see you from version 6.0.7, %v!",
+		"Hail, %v! Well met from version 6.0.7!",
 	}
 
 	// Return a randomly selected message format by specifying
